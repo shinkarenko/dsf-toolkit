@@ -42,12 +42,6 @@ Your audio remains **exactly** as the original — just split into separate file
 
 ## Installation
 
-### Quick Install (Recommended)
-
-```bash
-pip install dsf-splitter
-```
-
 ### Manual Install
 
 ```bash
